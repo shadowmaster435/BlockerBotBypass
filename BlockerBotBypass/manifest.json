@@ -1,0 +1,10 @@
+{
+    "Id": "BlockerBotBypass",
+    "AssemblyPath": "BlockerBotBypass.dll",
+    "Metadata": {
+        "Name": "Bot Blocker Bypass",
+        "Author": "shadowmaster435",
+        "Version": "1.0.0",
+        "Description": "Get past those pesky bots that prevent you from joining."
+    }
+}
